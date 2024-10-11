@@ -1,21 +1,22 @@
 {
-    "name": "kanpng30/new_fap_registration",
-    "description": "new_fap_registration",
+    "name": "peachza30/my-package",
+    "description": "A simple PHP package for demonstration.",
+    "type": "library",
+    "require": {
+        "php": "^7.2 || ^8.0",
+        "monolog/monolog": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Peachza30\\MyPackage\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "peachza30",
             "email": "peachza30@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/peachza30/assets"
-        }
-    ],
-    "require": {
-        "assets/nusoap": "dev-main",
-        "assets/adodb5.22.6": "dev-main"
-    },
-    "minimum-stability": "dev"
+    "license": "MIT",
+    "minimum-stability": "stable"
 }
