@@ -1,0 +1,20 @@
+{
+    "name": "kanpng30/new_fap_registration",
+    "description": "new_fap_registration",
+    "authors": [
+        {
+            "name": "peachza30",
+            "email": "peachza30@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/peachza30/assets"
+        }
+    ],
+    "require": {
+        "assets/nusoap": "dev-main",
+        "assets/adodb5.22.6": "dev-main"
+    }
+}
