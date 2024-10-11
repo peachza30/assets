@@ -1,15 +1,9 @@
 {
-    "name": "peachza30/my-package",
-    "description": "A simple PHP package for demonstration.",
+    "name": "tfac-mvc/assets",
+    "description": "Assets for TFAC-MVC PHP 8",
     "type": "library",
     "require": {
-        "php": "^7.2 || ^8.0",
-        "monolog/monolog": "^2.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "Peachza30\\MyPackage\\": "src/"
-        }
+        "php": "^8.0"
     },
     "authors": [
         {
