@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "assets/nusoap": "dev-main",
-        "assets/adodb5.22.6": "dev-main"
+        "resources/nusoap": "dev-main",
+        "resources/adodb5.22.6": "dev-main"
     }
 }
