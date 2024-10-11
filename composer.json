@@ -3,13 +3,7 @@
     "description": "Nusoap for PHP 8.",
     "type": "library",
     "require": {
-        "php": "^8.0",
-        "monolog/monolog": "^2.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "Assets\\Nusoap\\": "assets/"
-        }
+        "php": "^8.0"
     },
     "authors": [
         {
