@@ -1,6 +1,6 @@
 {
     "name": "tfac-mvc/assets",
-    "description": "Nusoap for PHP 8.",
+    "description": "Assets for TFAC-MVC PHP 8",
     "type": "library",
     "require": {
         "php": "^8.0"
